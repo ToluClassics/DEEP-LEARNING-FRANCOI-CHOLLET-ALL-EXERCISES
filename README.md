@@ -14,7 +14,7 @@ Below are some images contained in the dataset. It is important to note that som
 1: A child in a pink dress is climbing up a set of stairs in an entry way.
 2. A girl going into a wooden building .So lets get into the deep learning implementation; 
 
-This project was done using python's COLAB
+This project was done using Google COLAB
 
 Unzip and Data pre-processing (Cleaning, Lemmatization …)
 
