@@ -1,4 +1,6 @@
-Image captioning project using (Xception model )for extracting features from the images and RNN model (LSTM- Long Short Term Memory). 
+<h1>Image Captioning</h1>
+
+<b>Image captioning project</b> using (Xception model )for extracting features from the images and RNN model (LSTM- Long Short Term Memory). 
 
 Xception is a pre-trained convolutional neural network model that was trained on the imagenet database. The Xception model is an extension of the inception Architecture and has outperformed other popular computer vision models such as Resnet50,VCG16,VCG19 and Inception V3.
 
@@ -14,14 +16,12 @@ Below are some images contained in the dataset. It is important to note that som
 1: A child in a pink dress is climbing up a set of stairs in an entry way.
 2. A girl going into a wooden building .So lets get into the deep learning implementation; 
 
-This project was done using Google COLAB
+This project was done using Google COLAB following the steps below
 
-Unzip and Data pre-processing (Cleaning, Lemmatization …)
-
-Extract Features from the Images 
-
-Create a training data generator
-
-Build and Fit the Model to the Dataset
-
-Test the Model
+<ul>
+<li><b>Unzip and Data pre-processing (Cleaning, Lemmatization …)</b></li>
+<li><b>Extract Features from the Images</b></li>
+  <li><b>Create a training data generator</b></li>
+<li><b>Build and Fit the Model to the Dataset</b></li>
+<li><b>Test the Model</b></li>
+</ul>
